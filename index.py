@@ -69,6 +69,8 @@ def crearUsuario():
 
    ventana.mainloop()
 
+
+
 usuarios = []
 Errores = []
 def guardarUsuario(entradaNombre, entradaApellido, entradaEdad, entradaNumero, entradaSexo, entradaCorreo, Marco):
